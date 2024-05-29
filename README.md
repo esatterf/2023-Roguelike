@@ -7,4 +7,4 @@ This is a recreation of the 1980's game Rogue, a randomly generated role playing
 You need Python and the Python Arcade library installed and then all you need to do is run main.py
 
 ## Credits
-This was made in a group of four people consisting of me (Evan Satterfield) and fellow students Max Ivry, Michael Piscione, and Noah Schonhorn
+This was coded in a group of four people consisting of me (Evan Satterfield) and fellow students Max Ivry (who also did the music), Michael Piscione, and Noah Schonhorn. The sprites were drawn by Kaitlyn Jones.
